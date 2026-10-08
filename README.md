@@ -12,4 +12,8 @@ A responsive, bilingual static website. No dependencies, build step, external fo
 
 The dates and experience counts reflect October 2026. Update them when appropriate. Japanese text is an editorial translation of the supplied English profile. No employer logos or unsupported project claims are included.
 
+## Preview locally
+
+Open `index.html` in a browser, or run `python3 -m http.server 8000` from this folder and visit http://localhost:8000.
+
 GitHub documentation: https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
