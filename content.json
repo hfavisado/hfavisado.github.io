@@ -1,0 +1,174 @@
+[
+  [
+    "Woven by Toyota",
+    "Tokyo, Japan",
+    "Engineering Team Lead (Manager)",
+    "June 2025 – Present",
+    "エンジニアリングチームリード（マネージャー）",
+    "2025年6月〜現在",
+    [
+      [
+        "Lead the team responsible for software installation, package management, and environment setup for a vehicle development SDK.",
+        "車両開発SDKのソフトウェアインストール、パッケージ管理、環境構築を担うチームを率いる。"
+      ],
+      [
+        "Direct the architecture and delivery of tools across embedded systems, testing frameworks, simulation platforms, and associated toolchains.",
+        "組込みシステム、テストフレームワーク、シミュレーション環境、関連ツールチェーンに対応する開発ツールの設計・提供を推進。"
+      ],
+      [
+        "Own technical strategy, cross-functional coordination, and execution for reliable, scalable developer infrastructure.",
+        "信頼性と拡張性の高い開発者向け基盤の技術戦略、部門間連携、実行を統括。"
+      ]
+    ]
+  ],
+  [
+    "Mercari / Merpay",
+    "Tokyo, Japan",
+    "Engineering Manager",
+    "October 2021 – June 2025",
+    "エンジニアリングマネージャー",
+    "2021年10月〜2025年6月",
+    [
+      [
+        "Managed up to 16 engineers across two web and mobile client teams at Mercari and Merpay.",
+        "メルカリ・メルペイのWeb・モバイルクライアント領域で、2チーム・最大16名のエンジニアをマネジメント。"
+      ],
+      [
+        "Set team strategy, supported technical delivery, and fostered psychological safety and collaboration.",
+        "チーム戦略の策定、技術面・運営面の支援、心理的安全性と協働を重視したチームづくりを推進。"
+      ],
+      [
+        "Delivered marketing touchpoints, tools for business growth, and app features for Mercari Mobile.",
+        "マーケティング施策の接点と成長支援ツール、メルカリモバイルのアプリ機能を開発。"
+      ],
+      [
+        "Built and maintained a WYSIWYG webpage editor and an SDK for secure communication between webviews and mobile apps.",
+        "Webページ作成用WYSIWYGツールと、WebView・モバイルアプリ間の安全な通信を実現するSDKを開発・運用。"
+      ],
+      [
+        "Served on the incident management committee, coordinating response, root-cause analysis, and preventative measures.",
+        "インシデント管理委員会のメンバーとして、対応調整、原因分析、再発防止策の実施を支援。"
+      ]
+    ]
+  ],
+  [
+    "Rakuten / Kobo",
+    "Tokyo, Japan",
+    "Manager, Mobile Apps",
+    "June 2018 – October 2021",
+    "モバイルアプリ開発マネージャー",
+    "2018年6月〜2021年10月",
+    [
+      [
+        "Led up to 13 developers in Japan and India building the Rakuten Kobo reading app with React Native and native Android/iOS components.",
+        "日本・インドの最大13名の開発者を率い、React NativeとAndroid・iOSのネイティブコンポーネントを用いた楽天Koboアプリを開発。"
+      ],
+      [
+        "Coordinated business, design, and engineering teams across more than three global offices; reviewed system designs and edge cases.",
+        "世界3拠点以上のビジネス・デザイン・開発チームと連携し、システム設計とエッジケースをレビュー。"
+      ],
+      [
+        "Managed budgets, delivery reporting, process improvements, and the CI pipeline.",
+        "予算、進捗報告、開発プロセス改善、CIパイプラインの整備・運用を担当。"
+      ],
+      [
+        "Coached engineers and supported hiring, onboarding, and career development.",
+        "採用、オンボーディング、キャリア開発を支援し、エンジニアをコーチング。"
+      ]
+    ]
+  ],
+  [
+    "Rakuten / Kobo",
+    "Tokyo, Japan",
+    "Android Developer & Team Lead",
+    "April 2015 – June 2018",
+    "Android開発者・チームリード",
+    "2015年4月〜2018年6月",
+    [
+      [
+        "Developed and maintained the Kobo Android reading app for Japan; became team lead in January 2017.",
+        "日本向けKobo Androidアプリの機能開発・保守を担当。2017年1月からチームリードを務める。"
+      ]
+    ]
+  ],
+  [
+    "Rakuten / Kobo",
+    "Tokyo, Japan",
+    "C++ Software Engineer",
+    "February 2014 – April 2015",
+    "C++ソフトウェアエンジニア",
+    "2014年2月〜2015年4月",
+    [
+      [
+        "Developed the Qt-based Kobo Desktop application for Windows, macOS, and Linux, and application software for Kobo E Ink readers.",
+        "Qtを用いたWindows・macOS・Linux向けKobo Desktopと、Kobo電子書籍リーダーのアプリケーションを開発・保守。"
+      ]
+    ]
+  ],
+  [
+    "i-Bridge",
+    "Yokohama, Japan",
+    "Software Engineer",
+    "July 2011 – January 2014",
+    "ソフトウェアエンジニア",
+    "2011年7月〜2014年1月",
+    [
+      [
+        "Developed Windows desktop software with MFC and Qt interfaces for Linux-based electrophoretic display devices.",
+        "MFCによるWindowsデスクトップソフトウェアと、Linux搭載の電子ペーパー端末向けQt GUIを開発。"
+      ],
+      [
+        "Built prototypes and presented product proposals to customers.",
+        "試作品を開発し、顧客向けに新製品を提案。"
+      ],
+      [
+        "Developed laser-printer firmware and Windows drivers for products running VxWorks and Embedded Linux.",
+        "VxWorks・Embedded Linuxを採用したレーザープリンターのファームウェアとWindowsドライバーを開発。"
+      ]
+    ]
+  ],
+  [
+    "Emerson Network Power",
+    "Manila, Philippines",
+    "Software Engineer, Embedded Computing Group",
+    "August 2008 – April 2011",
+    "ソフトウェアエンジニア（Embedded Computing Group）",
+    "2008年8月〜2011年4月",
+    [
+      [
+        "Specialized in IPMI system-management firmware, developing C firmware for ATCA, μTCA, CPCI, and custom server blades for telecommunications.",
+        "IPMIシステム管理ファームウェアを専門とし、通信業界向けATCA・μTCA・CPCI・カスタムサーバーブレードのCファームウェアを開発。"
+      ],
+      [
+        "Led firmware, BIOS, and Linux BSP development for a VPX server blade; built hardware verification tests and Linux scripts.",
+        "VPXサーバーブレードのファームウェア・BIOS・Linux BSP開発を率い、ハードウェア検証コードとLinuxスクリプトを作成。"
+      ],
+      [
+        "Maintained VxWorks-based legacy products, administered version control, and developed system-management web interfaces using Flex.",
+        "VxWorks搭載の既存製品を保守し、バージョン管理を運用。Flexによるシステム管理Webインターフェースも開発。"
+      ]
+    ]
+  ],
+  [
+    "Integrated Microelectronics",
+    "Manila, Philippines",
+    "Software Engineer",
+    "September 2006 – August 2008",
+    "ソフトウェアエンジニア",
+    "2006年9月〜2008年8月",
+    [
+      [
+        "Developed firmware and web and physical interfaces for a Zigbee home automation network.",
+        "Zigbeeホームオートメーションのファームウェア、Web UI、機器側UIを設計・開発。"
+      ],
+      [
+        "Built C drivers and embedded components for Linux and bare-metal systems, including DLMS electric-meter communication.",
+        "Linux・ベアメタル環境のCドライバーと組込みコンポーネント、DLMSによる電力メーター通信を開発。"
+      ],
+      [
+        "Led test-software development for a Marvell 8686 Wi-Fi driver port and tested smart-camera and electronic-whiteboard products.",
+        "Marvell 8686 Wi-Fiドライバー移植のテストソフトウェア開発を率い、スマートカメラ・電子ホワイトボードの製品検証を担当。"
+      ]
+    ]
+  ]
+]
